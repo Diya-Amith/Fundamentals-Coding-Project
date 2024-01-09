@@ -76,5 +76,5 @@ print(
 plt.tick_params(axis='x', labelsize=10, colors='black')
 plt.tick_params(axis='y', labelsize=10, colors='black')
 
-# Show the plot    
+# Show the plot
 plt.show()
